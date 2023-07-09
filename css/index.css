@@ -2,6 +2,13 @@
 html {
     background-color: #F0F0F0;
     height: 100%;
+  /*-webkit-filter: grayscale(100%);*/
+  /*-moz-filter: grayscale(100%);*/
+  /*-ms-filter: grayscale(100%);*/
+  /*-o-filter: grayscale(100%);*/
+  /*filter: grayscale(100%);*/
+  /*filter: gray;*/
+  /*filter: progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);*/
 }
 
 body {
